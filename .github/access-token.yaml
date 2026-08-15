@@ -1,0 +1,9 @@
+origin: AhmadAbukhuit/DevOpsEngineer # Name of the repository
+
+# Define what permissions can be granted
+statements:
+  - subjects:
+      - 'repo:AhmadAbukhuit@105739953/DevOpsEngineer@878043623:**' # any workflow from any branch
+    permissions:
+      contents: write  # Allow pushing
+      pull-requests: write # Allow creating pull requests
