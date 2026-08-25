@@ -1,5 +1,5 @@
 issuer: https://token.actions.githubusercontent.com
-subject_pattern: repo:AhmadAbukhuit@105739953/DevOpsEngineer@878043623:ref:refs/heads/main
+subject_pattern: repo:AhmadAbukhuit@105739953/DevOps-DevSecOps-MLOps@878043623:ref:refs/heads/main
 permissions:
   contents: write
   pull_requests: write
